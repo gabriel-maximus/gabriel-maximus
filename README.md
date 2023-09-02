@@ -5,7 +5,7 @@
 <p align="left">I am an electrical engineering student with emphasis on systems and computing. I have experience with development using C/C++ focused on microcontrollers and I am currently studying web and mobile development using JavaScript and its frameworks.</p><br>
 
 <p algin="left"><a href="https://gabriel-maximus.github.io/Portfolio/">My portfolio</a></p>
-<p algin="left"><a href="https://github.com/gabriel-maximus/gabriel-maximus/blob/main/CV_Gabriel_Maximus.pdf">My CV<\a></p>
+<p algin="left"><a href="https://github.com/gabriel-maximus/gabriel-maximus/blob/main/CV_Gabriel_Maximus.pdf">My curriculum vitae</a></p>
 
 
 ###
